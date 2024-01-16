@@ -4,7 +4,7 @@ Manejo ingles intermedio.
 Disfruto aprender haciendo, pues consigo grandes resultados con la perseverancia.
 Creo a veces rendirme, pero finalmente consigo lo que busco.
 Los proyectos en mi repositorio es un intento de ejercicios varios del BootCamp de Java en el que aún estoy.
-¡Me gusta ser sincera y franca! Algún día tendré este repositorio con proyectos funcionales y kawai.
+¡Me gusta ser sincera y franca! Algún día tendré este repositorio con proyectos funcionales.
 
 Que tengas un buen día"
 
